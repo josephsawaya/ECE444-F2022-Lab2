@@ -5,3 +5,6 @@ this code is a clone of https://github.com/miguelgrinberg/flasky
 
 # Activity 2
 ![](images/Activity2.png)
+
+# Activity 3
+![](images/Activity3.png)
